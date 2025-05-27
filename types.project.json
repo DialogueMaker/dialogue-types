@@ -1,0 +1,13 @@
+{
+  "name": "dialogue-types",
+  "tree": {
+    "$className": "DataModel",
+    "dialogue-types": {
+      "$path": "Packages",
+      "$ignoreUnknownInstances": true,
+      "dialogue-types": {
+        "$path": "src"
+      }
+    }
+  }
+}
