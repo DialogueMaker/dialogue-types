@@ -1,6 +1,6 @@
 [package]
 name = "dialoguemaker/dialogue-types"
-version = "0.1.0-patch-1"
+version = "0.1.0-patch-2"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 repository = "https://github.com/DialogueMaker/dialogue-types"
@@ -9,5 +9,4 @@ include = ["src", "src/**/*.lua", "wally.toml", "default.project.json"]
 exclude = ["**"]
 
 [dependencies]
-react = "jsdotlua/react@17.2.1"
 effect-types = "dialoguemaker/effect-types@0.1.0-patch-3"

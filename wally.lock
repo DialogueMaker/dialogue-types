@@ -4,8 +4,8 @@ registry = "test"
 
 [[package]]
 name = "dialoguemaker/dialogue-types"
-version = "0.1.0-patch-1"
-dependencies = [["effect-types", "dialoguemaker/effect-types@0.1.0-patch-3"], ["react", "jsdotlua/react@17.2.1"]]
+version = "0.1.0-patch-2"
+dependencies = [["effect-types", "dialoguemaker/effect-types@0.1.0-patch-3"]]
 
 [[package]]
 name = "dialoguemaker/effect-types"
