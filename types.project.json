@@ -1,13 +1,9 @@
 {
-  "name": "dialogue-types",
+  "name": "dialogue_types",
   "tree": {
-    "$className": "DataModel",
-    "dialogue-types": {
-      "$path": "Packages",
-      "$ignoreUnknownInstances": true,
-      "dialogue-types": {
-        "$path": "src"
-      }
+    "$path": "roblox_packages",
+    "dialogue_types": {
+      "$path": "src"
     }
   }
 }
