@@ -20,7 +20,7 @@ ref_ty = "pesde"
 index_url = "https://github.com/daimond113/pesde-index"
 
 [graph."dialoguemaker/effect_types@0.1.0-patch-9 roblox"]
-direct = ["effect_types", { name = "dialoguemaker/effect_types", version = "^0.1.0-patch-9", index = "default" }, "peer"]
+direct = ["effect_types", { name = "dialoguemaker/effect_types", version = "^0.1.0-patch-10", index = "default" }, "peer"]
 
 [graph."dialoguemaker/effect_types@0.1.0-patch-9 roblox".dependencies]
 react = ["wally#jsdotlua/react@17.2.1 roblox", "peer"]

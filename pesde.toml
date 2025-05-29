@@ -36,5 +36,5 @@ rojo = { name = "pesde/rojo", version = "^7.4.4", target = "lune" }
 luau_lsp = { name = "pesde/luau_lsp", version = "^1.47.0", target = "lune" }
 
 [peer_dependencies]
-effect_types = { name = "dialoguemaker/effect_types", version = "^0.1.0-patch-9" }
+effect_types = { name = "dialoguemaker/effect_types", version = "^0.1.0-patch-10" }
 react = { wally = "jsdotlua/react", version = "^17.2.1" }
